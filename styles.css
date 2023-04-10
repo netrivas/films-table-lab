@@ -5,4 +5,5 @@ table, table * {
 thead *{
     background: #131521;
     color: white;
+    border: solid 2px white;
 }
