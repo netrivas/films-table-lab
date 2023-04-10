@@ -2,3 +2,7 @@ table, table * {
     border: solid 2px black;
     border-collapse: collapse;
 }
+thead *{
+    background: #131521;
+    color: white;
+}
